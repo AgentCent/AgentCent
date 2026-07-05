@@ -21,4 +21,3 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/AgentCent
-- Email: nkorniets@inbox.ru
