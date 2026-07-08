@@ -20,4 +20,4 @@
 - (real repositories will be added here later with descriptions)
 
 ## 📫 Contact
-- GitHub: https://github.com/AgentCent
+- Only GitHub
